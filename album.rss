@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>album</title>
+   	<link>..</link>
+        <generator>jAlbum 30.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/album/</jalbum:absolutePath>
+        <item>
+            <title>folderimg</title>
+            <link>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/album/slides/folderimg.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 21:13:34 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/album/thumbs/folderimg.jpg" width="256" height="256"/>
+            <media:content type="image/jpeg" url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/album/slides/folderimg.jpg" width="800" height="360"/>
+            <guid isPermaLink="false">slides/folderimg.jpg</guid>
+        </item>
+        <item>
+            <title>folderimage</title>
+            <link>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/album/slides/folderimage.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 21:13:34 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/album/thumbs/folderimage.jpg" width="158" height="158"/>
+            <media:content type="image/jpeg" url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/album/slides/folderimage.jpg" width="824" height="158"/>
+            <guid isPermaLink="false">slides/folderimage.jpg</guid>
+        </item>
+        <item>
+            <title>folderthumb</title>
+            <link>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/album/slides/folderthumb.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 21:13:34 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/album/thumbs/folderthumb.jpg" width="256" height="256"/>
+            <media:content type="image/jpeg" url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/album/slides/folderthumb.jpg" width="620" height="465"/>
+            <guid isPermaLink="false">slides/folderthumb.jpg</guid>
+        </item>
+        <item>
+            <title>shareimage</title>
+            <link>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/album/slides/shareimage.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 21:13:34 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/album/thumbs/shareimage.jpg" width="256" height="256"/>
+            <media:content type="image/jpeg" url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/album/slides/shareimage.jpg" width="675" height="900"/>
+            <guid isPermaLink="false">slides/shareimage.jpg</guid>
+        </item>
+    </channel>
+</rss>
