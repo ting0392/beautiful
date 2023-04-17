@@ -3,50 +3,211 @@
      xmlns:media="http://search.yahoo.com/mrss/"
      xmlns:jalbum="http://jalbum.net/jalbumrss">
     <channel>
-        <title>album</title>
-   	<link>..</link>
+        <title>靜宜之美</title>
+   	<link>.</link>
         <generator>jAlbum 30.2</generator>
    		<description></description>
-        <jalbum:absolutePath>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/album/</jalbum:absolutePath>
+        <jalbum:absolutePath>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/album/album.rss" title="album" thumbnail="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/album/thumbs/folderimg.jpg" thumbnailWidth="256" thumbnailHeight="256" />
         <item>
-            <title>folderimg</title>
-            <link>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/album/slides/folderimg.jpg</link>
-            <pubDate>Mon, 17 Apr 2023 21:13:34 +0800</pubDate>
+            <title>光芒萬丈</title>
+            <link>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388887%20%281%29.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 19:56:39 +0800</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/album/thumbs/folderimg.jpg" width="256" height="256"/>
-            <media:content type="image/jpeg" url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/album/slides/folderimg.jpg" width="800" height="360"/>
-            <guid isPermaLink="false">slides/folderimg.jpg</guid>
+            <media:thumbnail url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/thumbs/S__79388887%20%281%29.jpg" width="256" height="256"/>
+            <media:content type="image/jpeg" url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388887%20%281%29.jpg" width="824" height="1099"/>
+            <guid isPermaLink="false">slides/S__79388887%20%281%29.jpg</guid>
         </item>
         <item>
-            <title>folderimage</title>
-            <link>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/album/slides/folderimage.jpg</link>
-            <pubDate>Mon, 17 Apr 2023 21:13:34 +0800</pubDate>
+            <title>無憂無慮</title>
+            <link>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388885%20%281%29.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 19:56:39 +0800</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/album/thumbs/folderimage.jpg" width="158" height="158"/>
-            <media:content type="image/jpeg" url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/album/slides/folderimage.jpg" width="824" height="158"/>
-            <guid isPermaLink="false">slides/folderimage.jpg</guid>
+            <media:thumbnail url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/thumbs/S__79388885%20%281%29.jpg" width="256" height="256"/>
+            <media:content type="image/jpeg" url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388885%20%281%29.jpg" width="824" height="1099"/>
+            <guid isPermaLink="false">slides/S__79388885%20%281%29.jpg</guid>
         </item>
         <item>
-            <title>folderthumb</title>
-            <link>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/album/slides/folderthumb.jpg</link>
-            <pubDate>Mon, 17 Apr 2023 21:13:34 +0800</pubDate>
+            <title>落日熔金</title>
+            <link>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388884%20%281%29.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 19:56:39 +0800</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/album/thumbs/folderthumb.jpg" width="256" height="256"/>
-            <media:content type="image/jpeg" url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/album/slides/folderthumb.jpg" width="620" height="465"/>
-            <guid isPermaLink="false">slides/folderthumb.jpg</guid>
+            <media:thumbnail url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/thumbs/S__79388884%20%281%29.jpg" width="256" height="256"/>
+            <media:content type="image/jpeg" url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388884%20%281%29.jpg" width="824" height="618"/>
+            <guid isPermaLink="false">slides/S__79388884%20%281%29.jpg</guid>
         </item>
         <item>
-            <title>shareimage</title>
-            <link>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/album/slides/shareimage.jpg</link>
-            <pubDate>Mon, 17 Apr 2023 21:13:34 +0800</pubDate>
+            <title>傳說</title>
+            <link>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388883%20%281%29.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 19:56:39 +0800</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/album/thumbs/shareimage.jpg" width="256" height="256"/>
-            <media:content type="image/jpeg" url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/album/slides/shareimage.jpg" width="675" height="900"/>
-            <guid isPermaLink="false">slides/shareimage.jpg</guid>
+            <media:thumbnail url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/thumbs/S__79388883%20%281%29.jpg" width="256" height="256"/>
+            <media:content type="image/jpeg" url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388883%20%281%29.jpg" width="824" height="1099"/>
+            <guid isPermaLink="false">slides/S__79388883%20%281%29.jpg</guid>
+        </item>
+        <item>
+            <title>出淤泥而不染</title>
+            <link>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388891%20%281%29.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 19:56:39 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/thumbs/S__79388891%20%281%29.jpg" width="256" height="256"/>
+            <media:content type="image/jpeg" url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388891%20%281%29.jpg" width="824" height="1099"/>
+            <guid isPermaLink="false">slides/S__79388891%20%281%29.jpg</guid>
+        </item>
+        <item>
+            <title>生機勃勃</title>
+            <link>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388890%20%281%29.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 19:56:39 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/thumbs/S__79388890%20%281%29.jpg" width="256" height="256"/>
+            <media:content type="image/jpeg" url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388890%20%281%29.jpg" width="824" height="1099"/>
+            <guid isPermaLink="false">slides/S__79388890%20%281%29.jpg</guid>
+        </item>
+        <item>
+            <title>樹蔭廊道</title>
+            <link>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388889%20%281%29.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 19:56:39 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/thumbs/S__79388889%20%281%29.jpg" width="256" height="256"/>
+            <media:content type="image/jpeg" url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388889%20%281%29.jpg" width="824" height="1099"/>
+            <guid isPermaLink="false">slides/S__79388889%20%281%29.jpg</guid>
+        </item>
+        <item>
+            <title>沉思中的小花</title>
+            <link>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388888%20%281%29.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 19:56:39 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/thumbs/S__79388888%20%281%29.jpg" width="256" height="256"/>
+            <media:content type="image/jpeg" url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388888%20%281%29.jpg" width="824" height="1099"/>
+            <guid isPermaLink="false">slides/S__79388888%20%281%29.jpg</guid>
+        </item>
+        <item>
+            <title>枝繁葉茂</title>
+            <link>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388882%20%281%29.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 19:56:39 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/thumbs/S__79388882%20%281%29.jpg" width="256" height="256"/>
+            <media:content type="image/jpeg" url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388882%20%281%29.jpg" width="824" height="1099"/>
+            <guid isPermaLink="false">slides/S__79388882%20%281%29.jpg</guid>
+        </item>
+        <item>
+            <title>懷念</title>
+            <link>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388881%20%281%29.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 19:56:39 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/thumbs/S__79388881%20%281%29.jpg" width="256" height="256"/>
+            <media:content type="image/jpeg" url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388881%20%281%29.jpg" width="824" height="1099"/>
+            <guid isPermaLink="false">slides/S__79388881%20%281%29.jpg</guid>
+        </item>
+        <item>
+            <title>步步高升</title>
+            <link>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388880%20%281%29.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 19:56:39 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/thumbs/S__79388880%20%281%29.jpg" width="256" height="256"/>
+            <media:content type="image/jpeg" url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388880%20%281%29.jpg" width="824" height="1099"/>
+            <guid isPermaLink="false">slides/S__79388880%20%281%29.jpg</guid>
+        </item>
+        <item>
+            <title>神聖的聖母堂</title>
+            <link>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388879%20%281%29.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 19:56:39 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/thumbs/S__79388879%20%281%29.jpg" width="256" height="256"/>
+            <media:content type="image/jpeg" url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388879%20%281%29.jpg" width="824" height="1099"/>
+            <guid isPermaLink="false">slides/S__79388879%20%281%29.jpg</guid>
+        </item>
+        <item>
+            <title>願景</title>
+            <link>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388894%20%281%29.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 19:56:39 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/thumbs/S__79388894%20%281%29.jpg" width="256" height="256"/>
+            <media:content type="image/jpeg" url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388894%20%281%29.jpg" width="824" height="1099"/>
+            <guid isPermaLink="false">slides/S__79388894%20%281%29.jpg</guid>
+        </item>
+        <item>
+            <title>吃人的大樓</title>
+            <link>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388895%20%281%29.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 19:56:39 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/thumbs/S__79388895%20%281%29.jpg" width="256" height="256"/>
+            <media:content type="image/jpeg" url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388895%20%281%29.jpg" width="824" height="1099"/>
+            <guid isPermaLink="false">slides/S__79388895%20%281%29.jpg</guid>
+        </item>
+        <item>
+            <title>被環繞的樹</title>
+            <link>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388893%20%281%29.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 19:56:39 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/thumbs/S__79388893%20%281%29.jpg" width="256" height="256"/>
+            <media:content type="image/jpeg" url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388893%20%281%29.jpg" width="824" height="1099"/>
+            <guid isPermaLink="false">slides/S__79388893%20%281%29.jpg</guid>
+        </item>
+        <item>
+            <title>看向未來</title>
+            <link>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388892%20%281%29.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 19:56:39 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/thumbs/S__79388892%20%281%29.jpg" width="256" height="256"/>
+            <media:content type="image/jpeg" url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388892%20%281%29.jpg" width="824" height="1099"/>
+            <guid isPermaLink="false">slides/S__79388892%20%281%29.jpg</guid>
+        </item>
+        <item>
+            <title>生命力</title>
+            <link>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388878%20%281%29.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 19:56:39 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/thumbs/S__79388878%20%281%29.jpg" width="256" height="256"/>
+            <media:content type="image/jpeg" url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388878%20%281%29.jpg" width="824" height="1099"/>
+            <guid isPermaLink="false">slides/S__79388878%20%281%29.jpg</guid>
+        </item>
+        <item>
+            <title>頑固的小草</title>
+            <link>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388877%20%281%29.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 19:56:39 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/thumbs/S__79388877%20%281%29.jpg" width="256" height="256"/>
+            <media:content type="image/jpeg" url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388877%20%281%29.jpg" width="824" height="1099"/>
+            <guid isPermaLink="false">slides/S__79388877%20%281%29.jpg</guid>
+        </item>
+        <item>
+            <title>管中窺豹</title>
+            <link>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388876%20%281%29.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 19:56:39 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/thumbs/S__79388876%20%281%29.jpg" width="256" height="256"/>
+            <media:content type="image/jpeg" url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388876%20%281%29.jpg" width="824" height="1099"/>
+            <guid isPermaLink="false">slides/S__79388876%20%281%29.jpg</guid>
+        </item>
+        <item>
+            <title>囹圄與自由</title>
+            <link>https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388874%20%281%29.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 19:56:39 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/thumbs/S__79388874%20%281%29.jpg" width="256" height="256"/>
+            <media:content type="image/jpeg" url="https://ting111.jalbum.net/%E9%9D%9C%E5%AE%9C%E4%B9%8B%E7%BE%8E/slides/S__79388874%20%281%29.jpg" width="824" height="1099"/>
+            <guid isPermaLink="false">slides/S__79388874%20%281%29.jpg</guid>
         </item>
     </channel>
 </rss>
